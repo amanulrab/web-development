@@ -1,2 +1,3 @@
 # web-development
-this is my first repo
+this is my first repository.
+Author- Amanul Rab
